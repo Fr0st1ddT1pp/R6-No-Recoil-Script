@@ -7,10 +7,10 @@ RecoilControlMode = "ECHO"                -- Select operator preset
 
 -- =============== RECOIL VALUES (Presets) ===============
 local RecoilPresets = {
-    ASH    = { Vertical = 63, Horizontal = -1 },
+    ASH    = { Vertical = 63, Horizontal = -3 },
     LESION = { Vertical = 22, Horizontal =  0 },
     MIRA   = { Vertical = 27, Horizontal =  0 },
-    VIGIL  = { Vertical = 36, Horizontal =  6 },
+    VIGIL  = { Vertical = 93, Horizontal =  9 },
     DOC    = { Vertical = 48, Horizontal = -1 },
     VALK   = { Vertical = 18, Horizontal =  0 },
     IANA   = { Vertical = 49, Horizontal =  1 },
@@ -21,7 +21,7 @@ local RecoilPresets = {
     AZAMI  = { Vertical = 20, Horizontal = -1 },
     KAID   = { Vertical = 17, Horizontal =  1 },
     DEIMOS = { Vertical = 32, Horizontal = -1 },
-    ZERO   = { Vertical = 58, Horizontal = -1 }
+    ZERO   = { Vertical = 72, Horizontal = -2 }
 }
 --ALL VALUES MADE FOR 1600 DPI 4-4 IN GAME SENS
 
