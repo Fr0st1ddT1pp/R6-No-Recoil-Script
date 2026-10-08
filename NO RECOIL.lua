@@ -7,28 +7,28 @@ RecoilControlMode = "ECHO"                -- Select operator preset
 
 -- =============== RECOIL VALUES (Presets) ===============
 local RecoilPresets = {
-    ASH/RAM   = { Vertical = 63, Horizontal = -3 },
-    LESION/ORYX = { Vertical = 22, Horizontal =  0 },
-    MIRA  = { Vertical = 27, Horizontal =  0 },
-    VIGIL/DOKKAEBI/WARDEN  = { Vertical = 93, Horizontal =  9 },
-    DOC/ROOK/MELUSI    = { Vertical = 48, Horizontal = -1 },
-    VALK   = { Vertical = 18, Horizontal =  0 },
-    IANA   = { Vertical = 49, Horizontal =  1 },
-    ACE/FUZE    = { Vertical = 54, Horizontal = -1 },
-    FENRIR/BANDIT = { Vertical = 18, Horizontal =  1 },
-    YING   = { Vertical = 42, Horizontal =  0 },
-    ECHO   = { Vertical = 44, Horizontal = -1 },
-    AZAMI/KAPKAN  = { Vertical = 20, Horizontal = -1 },
-    KAID/GOYO/SENTRY   = { Vertical = 17, Horizontal =  1 },
-    DEIMOS = { Vertical = 32, Horizontal = -1 },
-    ZERO   = { Vertical = 72, Horizontal = -2 },
-    TWITCH/SOLID SNAKE = { Vertical = 72, Horizontal = -2},
-    IQ/GRIM = { Verticle = 46, Horizontal = -1},
-    MOZZIE/ARUNI = { Verticle = 50, Horizontal = -1},
-    SMOKE/MUTE = { Verticle = 55, Horizontal = -3},
-    ELA/DENARI = { Verticle = 64, Horizontal = -3}
+    ["ASH/RAM"] = { Vertical = 63, Horizontal = -3 },
+    ["LESION/ORYX"] = { Vertical = 22, Horizontal = 0 },
+    ["MIRA"] = { Vertical = 27, Horizontal = 0 },
+    ["VIGIL/DOKKAEBI/WARDEN"] = { Vertical = 93, Horizontal = 9 },
+    ["DOC/ROOK/MELUSI"] = { Vertical = 48, Horizontal = -1 },
+    ["VALK"] = { Vertical = 18, Horizontal = 0 },
+    ["IANA"] = { Vertical = 49, Horizontal = 1 },
+    ["ACE/FUZE"] = { Vertical = 54, Horizontal = -1 },
+    ["FENRIR/BANDIT"] = { Vertical = 18, Horizontal = 1 },
+    ["YING"] = { Vertical = 42, Horizontal = 0 },
+    ["ECHO"] = { Vertical = 44, Horizontal = -1 },
+    ["AZAMI/KAPKAN"] = { Vertical = 20, Horizontal = -1 },
+    ["KAID/GOYO/SENTRY"] = { Vertical = 17, Horizontal = 1 },
+    ["DEIMOS"] = { Vertical = 32, Horizontal = -1 },
+    ["ZERO"] = { Vertical = 72, Horizontal = -2 },
+    ["TWITCH/SOLID SNAKE"] = { Vertical = 72, Horizontal = -2 },
+    ["IQ/GRIM"] = { Vertical = 46, Horizontal = -1 },
+    ["MOZZIE/ARUNI"] = { Vertical = 50, Horizontal = -1 },
+    ["SMOKE/MUTE"] = { Vertical = 55, Horizontal = -3 },
+    ["ELA/DENARI"] = { Vertical = 64, Horizontal = -3 }
 }
---ALL VALUES MADE FOR 1600 DPI 4-4 IN GAME SENS
+--ALL VALUES MADE FOR 1600 DPI 56-56 IN GAME SENS, 1.0x 22, 2.5x 53.
 
 
 --======== DONT CHANGE ANYTHING BELOW HERE IF YOU DONT KNOW WHAT YOUR DOING ====================
