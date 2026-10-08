@@ -27,9 +27,9 @@ local RecoilPresets = {
     ["MOZZIE/ARUNI"] = { Vertical = 50, Horizontal = -1 },
     ["SMOKE/MUTE"] = { Vertical = 55, Horizontal = -3 },
     ["ELA/DENARI"] = { Vertical = 64, Horizontal = -3 },
-    ["FLORES"] = { Vertical = 0, Horizontal = 0 },
-    ["BUCK"] = { Vertical = 0, Horizontal = 0 },
-    ["STRIKER/MAVERICK"] = { Vertical = 0, Horizontal = 0 }
+    ["FLORES"] = { Vertical = 42, Horizontal = -2 },
+    ["BUCK"] = { Vertical = 51, Horizontal = -3 },
+    ["STRIKER/MAVERICK"] = { Vertical = 55, Horizontal = 2 }
 }
 --ALL VALUES MADE FOR 1600 DPI IN GAME SENS, 56-56 0.001 Multiplier un ads only, 1.0x 22, 2.5x 53.
 
